@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8079ab5-9519-49c4-bd93-2d4665df294d" name="Changes" comment="Fusionar archivos" />
+    <list default="true" id="f8079ab5-9519-49c4-bd93-2d4665df294d" name="Changes" comment="archivo .idea en main">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,6 +79,7 @@
       <workItem from="1702872060248" duration="4256000" />
       <workItem from="1702905651191" duration="6922000" />
       <workItem from="1702953490907" duration="1640000" />
+      <workItem from="1702991066635" duration="308000" />
     </task>
     <task id="LOCAL-00001" summary="Fusionar archivos">
       <created>1702874567208</created>
@@ -85,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702874567208</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="archivo .idea en main">
+      <created>1702991233332</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702991233332</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +114,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Fusionar archivos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fusionar archivos" />
+    <MESSAGE value="archivo .idea en main" />
+    <option name="LAST_COMMIT_MESSAGE" value="archivo .idea en main" />
   </component>
 </project>
